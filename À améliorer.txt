@@ -1,0 +1,9 @@
+- Mois affichés en anglais =(
+- Écrire un guide/tutorial
+- 8 Mai 2024 = ok
+- D'autres façons d'écrire la date
+- Raspberry pi
+- Plus de sous-projets dispos
+- URL plus simple
+- Rouge si 3 jours mais fin de semaine
+- Disparaitre lorsque fini
